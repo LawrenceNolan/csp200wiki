@@ -1,4 +1,4 @@
-#welcome to the CSP 200 wiki!
+# welcome to the CSP 200 wiki!
 
 Welcome! This is the _CSP 200_ wiki.
 
